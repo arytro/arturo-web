@@ -1,0 +1,18 @@
+export const RANDOM_THOUGHTS: string[] = [
+  '“You found the random button.”',
+  '“What are you listening to right now?”',
+  '“Maybe check TikTok.”',
+  '“What’s next?”',
+  '“You weren\'t supposed to find this.”',
+  '“Take a break.”',
+  '“Interesting choice.”',
+  '“Still scrolling?”',
+  '“Come back later.”',
+  '“The internet is much quieter at night.”',
+  '“Don’t forget to look at the sky today.”',
+  '“Just passing through.”',
+  '“It’s okay to pause for a second.”',
+  '“Another tab left open in your mind.”',
+  '“Did you listen to that song yet?”',
+  '“A small digital souvenir.”',
+];

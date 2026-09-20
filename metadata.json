@@ -1,0 +1,6 @@
+{
+  "name": "Arturo",
+  "description": "just a little corner of the internet. Personal page for @arturo.anonimo_k",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
